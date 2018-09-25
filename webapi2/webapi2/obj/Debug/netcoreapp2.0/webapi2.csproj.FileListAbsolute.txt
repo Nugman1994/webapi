@@ -1,0 +1,11 @@
+C:\Users\Nugmann\source\repos\webapi2\webapi2\bin\Debug\netcoreapp2.0\webapi2.deps.json
+C:\Users\Nugmann\source\repos\webapi2\webapi2\bin\Debug\netcoreapp2.0\webapi2.runtimeconfig.json
+C:\Users\Nugmann\source\repos\webapi2\webapi2\bin\Debug\netcoreapp2.0\webapi2.runtimeconfig.dev.json
+C:\Users\Nugmann\source\repos\webapi2\webapi2\bin\Debug\netcoreapp2.0\webapi2.dll
+C:\Users\Nugmann\source\repos\webapi2\webapi2\bin\Debug\netcoreapp2.0\webapi2.pdb
+C:\Users\Nugmann\source\repos\webapi2\webapi2\obj\Debug\netcoreapp2.0\webapi2.csproj.CoreCompileInputs.cache
+C:\Users\Nugmann\source\repos\webapi2\webapi2\obj\Debug\netcoreapp2.0\webapi2.AssemblyInfoInputs.cache
+C:\Users\Nugmann\source\repos\webapi2\webapi2\obj\Debug\netcoreapp2.0\webapi2.AssemblyInfo.cs
+C:\Users\Nugmann\source\repos\webapi2\webapi2\obj\Debug\netcoreapp2.0\webapi2.dll
+C:\Users\Nugmann\source\repos\webapi2\webapi2\obj\Debug\netcoreapp2.0\webapi2.pdb
+C:\Users\Nugmann\source\repos\webapi2\webapi2\obj\Debug\netcoreapp2.0\webapi2.csprojAssemblyReference.cache
